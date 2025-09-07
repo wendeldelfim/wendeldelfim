@@ -1,4 +1,6 @@
-## Hi there 👋
+<div>
+  <img src = "https://i.imgur.com/QT8zTFz.png" width="100%"/>
+</div>
 
 <!--
 **wendeldelfim/wendeldelfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
